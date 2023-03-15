@@ -1,5 +1,6 @@
 include:
-
+  - shield: reviung41 
+    board: nrfmicro33@1.4.0
   - shield: lily_left
     board: nrfmicro33@1.4.0
   - shield: lily_right
