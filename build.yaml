@@ -14,11 +14,11 @@ include:
 #    board: nrfmicro@1.4.0
 #  - shield: lily_right
 #    board: nrfmicro@1.4.0
-#  - shield: sofle_left
-#    board: nrfmicro@1.4.0
-#  - shield: sofle_right
- #   board: nrfmicro@1.4.0
-  - shield: reviung41 
+  - shield: sofle_left
+    board: nrfmicro@1.4.0
+  - shield: sofle_right
+    board: nrfmicro@1.4.0
+  - shield: settings_reset 
     board: nrfmicro@1.4.0
 
  # - board: cyber60@B
